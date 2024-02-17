@@ -16,3 +16,7 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll
+
+Latest Resume:
+[jekyll][View Resume Here] /
+[jekyll](https://github.com/siddhesh2263/portfolio_site/blob/5fc1a49d951efff97d7374a46d6b20fa574f3aae/2023-CBR650R-Brochure.pdf)
